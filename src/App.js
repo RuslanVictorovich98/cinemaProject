@@ -1,8 +1,9 @@
 import React from 'react'
 import './App.css'
+import MainPage from './Components/MainPage'
 
 function App() {
-  return <>New project</>
+  return <MainPage />
 }
 
 export default App
