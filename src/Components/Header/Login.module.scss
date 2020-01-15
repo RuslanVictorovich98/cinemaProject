@@ -1,0 +1,17 @@
+.button {
+  margin-top: -12px;
+  padding: 16px 15px;
+
+  background: #0f0f0f;
+  //background: rebeccapurple;
+  float: right;
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+
+  &:hover {
+    border-color: rebeccapurple;
+    color: #0f0f0f;
+    background: rebeccapurple;
+    cursor: pointer;
+  }
+}

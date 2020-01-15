@@ -1,5 +1,5 @@
 import React from 'react'
-import Headers from './Headers'
+import Headers from './Header/Headers'
 
 const MainPage = () => {
     return (

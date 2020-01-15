@@ -1,0 +1,36 @@
+.headerMain {
+  padding: 10px 10%;
+  background: #0f0f0f;
+
+  h2 {
+    color: white;
+    background: #0f0f0f;
+    //background: darkslateblue;
+    padding: 11px 10px;
+    display: inline;
+
+    &:hover {
+      color: darkslateblue;
+      cursor: pointer;
+    }
+  }
+
+  input {
+    float: right;
+    background: #0f0f0f;
+    border: 0;
+    //margin-right: 20px;
+    padding: 0 10px;
+    margin-top: -7px;
+    height: 43px;
+    width: 7%;
+
+    &:hover {
+      background: white;
+      color: #0f0f0f;
+      width: 30%;
+
+    }
+  }
+}
+
